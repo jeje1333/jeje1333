@@ -80,7 +80,9 @@
   </table>
 
 <h2>프로젝트</h2>
-
+<a href="https://github.com/jeje1333/Naeil">링크</a> 2024.04.14 ~ 2024.04.28 내일 뭐 먹지 Java Swing 기반 소프트 프로그램<br>
+<a href="https://github.com/jeje1333/Dasi-Bom">링크</a> 2025.06.09 ~ 2025.07.01 다시, 봄 Spring Framework Project<br>
+<a href="https://github.com/jeje1333/LittleForest">링크</a> 2025.07.28 ~ 2025.09.09 리틀 포레스트 Spring Framework Project
 
 <!--
 **jeje1333/jeje1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
