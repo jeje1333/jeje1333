@@ -80,8 +80,8 @@
   </table>
 
 <h2>프로젝트</h2>
-[2024.04.14 ~ 2024.04.28 내일 뭐 먹지 Java Swing 기반 소프트 프로그램](https://github.com/jeje1333/Naeil)
-[2025.06.09 ~ 2025.07.01 다시, 봄 Spring Legacy Project](https://github.com/jeje1333/Dasi-Bom)
+[2024.04.14 ~ 2024.04.28 내일 뭐 먹지 Java Swing 기반 소프트 프로그램](https://github.com/jeje1333/Naeil)  
+[2025.06.09 ~ 2025.07.01 다시, 봄 Spring Legacy Project](https://github.com/jeje1333/Dasi-Bom)  
 [2025.07.28 ~ 2025.09.09 리틀 포레스트 Spring Boot Project](https://github.com/jeje1333/port-LittleForest)
 
 <!--
