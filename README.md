@@ -19,7 +19,7 @@
 | 도구 | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/swagger-000000?style=flat-square"/> |
 
 #### 프로젝트
-2024.04.14 ~ 2024.04.28 [내일 뭐 먹지 Java Swing 기반 소프트 프로그램](https://github.com/jeje1333/Naeil)  
+2025.04.14 ~ 2025.04.28 [내일 뭐 먹지 Java Swing 기반 소프트 프로그램](https://github.com/jeje1333/Naeil)  
 2025.06.09 ~ 2025.07.01 [다시, 봄 Spring Legacy Project](https://github.com/jeje1333/Dasi-Bom)  
 2025.07.28 ~ 2025.09.09 [리틀 포레스트 Spring Boot Project](https://github.com/jeje1333/port-LittleForest)
 
